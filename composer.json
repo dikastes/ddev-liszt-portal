@@ -26,7 +26,7 @@
         "slub/liszt-bibliography": "dev-main",
         "slub/liszt-catalograisonne": "dev-main",
         "slub/liszt-common": "dev-main",
-        "slub/lisztportal-web": "dev-master",
+        "slub/lisztportal-web": "dev-main",
         "typo3/cms-backend": "^11.5.0",
         "typo3/cms-belog": "^11.5.0",
         "typo3/cms-beuser": "^11.5.0",
